@@ -53,8 +53,8 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/feichaixiaobai/web-fusion-app.git
-cd web-fusion-app
+git clone https://github.com/feichaixiaobai/Multi_web_app.git
+cd Multi_web_app
 ```
 
 2. **安装依赖**
