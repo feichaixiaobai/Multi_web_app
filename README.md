@@ -53,7 +53,7 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/yourusername/web-fusion-app.git
+git clone https://github.com/feichaixiaobai/web-fusion-app.git
 cd web-fusion-app
 ```
 
