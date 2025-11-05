@@ -221,7 +221,7 @@ lib/
 
 **Your Name**
 
-- GitHub: [@feichaixiaobai](https://github.com/fichaixiaobai)
+- GitHub: [@feichaixiaobai](https://github.com/feichaixiaobai)
 
 ---
 
